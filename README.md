@@ -14,6 +14,6 @@ https://ltphuoc.github.io/tic-tac-toe-js/
 ### Built With
 * HTML  
 * CSS
-* Vanila JavaScript
+* Vanila Javascript
 
 ##### ©phuoclt2022 
