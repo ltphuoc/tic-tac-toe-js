@@ -1,16 +1,19 @@
 # TIC TAC TOE 
+* A simple tic-tac-toe game (single player, updating multiplayer)
+* About the game: https://www.exploratorium.edu/brain_explorer/tictactoe.html
 
-## A simple tic-tac-toe game (single player, updating multiplayer)
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-### Built with
-* HTML,
-* CSS,
-* Vanilla JavaScript
+### Demo
+https://ltphuoc.github.io/tic-tac-toe-js/
 
-### About the tic-tac-toe game:
-https://www.exploratorium.edu/brain_explorer/tictactoe.html
-
-### Screenshots:
+### Screenshots
 ![Demo of tic-tac-toe using JavaScript]()
+
+### Built With
+* HTML  
+* CSS
+* Vanila JavaScript
 
 ##### ©phuoclt2022 
