@@ -1,10 +1,12 @@
 # TIC TAC TOE 
 * A simple tic-tac-toe game (single player, updating multiplayer)
-* About the game: https://www.exploratorium.edu/brain_explorer/tictactoe.html
 * Demo: https://tic-tac-toe-js-mu.vercel.app/
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+### Rule
+https://www.exploratorium.edu/brain_explorer/tictactoe.html
 
 ### Screenshots
 ![Demo of tic-tac-toe using JavaScript]()
